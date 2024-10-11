@@ -12,6 +12,8 @@ TypeScript compiles down to plain JavaScript, ensuring compatibility with all Ja
 Object-Oriented Programming: Supports OOP principles like interfaces, classes, and inheritance.
 
 ## 3. Data Types
+
+### Primitive Data Types:
 1. `number`
 2. `string`
 3. `boolean`
@@ -19,3 +21,14 @@ Object-Oriented Programming: Supports OOP principles like interfaces, classes, a
 5. `undefined`
 6. `symbol`
 7. `bigint`
+
+### Non-Primitive Types
+1. `Array`
+2. `Tuple`
+3. `Object`
+
+### Special Types
+1. `void`
+2. `null`
+3. `never`
+
