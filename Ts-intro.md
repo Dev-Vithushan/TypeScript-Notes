@@ -10,3 +10,12 @@ TypeScript compiles down to plain JavaScript, ensuring compatibility with all Ja
 - Improved IDE Support: Provides better autocompletion, navigation, and refactoring tools.
 - Optional Static Typing: You can gradually add typing to existing JavaScript code.
 Object-Oriented Programming: Supports OOP principles like interfaces, classes, and inheritance.
+
+## 3. Data Types
+1. `number`
+2. `string`
+3. `boolean`
+4. `any`
+5. `undefined`
+6. `symbol`
+7. `bigint`
