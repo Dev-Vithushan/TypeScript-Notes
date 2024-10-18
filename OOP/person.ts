@@ -12,6 +12,7 @@ class Person {
     }
   }
   
-  const person = new Person("Vithushan", 30);
-  person.greet(); 
+  const vithushan = new Person("Vithushan", 30); //Creating object
+
+
   
