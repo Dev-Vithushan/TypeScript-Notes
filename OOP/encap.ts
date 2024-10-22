@@ -11,4 +11,7 @@ class Employee {
   const employee = new Employee("Vithshan", 5000);
   console.log(employee.name);   // "John"
   employee.salary = 6000;       // Can directly modify the salary
+
+
+
   

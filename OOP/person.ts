@@ -15,4 +15,5 @@ class Person {
   const vithushan = new Person("Vithushan", 30); //Creating object
 
 
+
   

@@ -31,3 +31,4 @@ var Employee = /** @class */ (function (_super) {
 var employee = new Employee("Alice", 30, "Engineer");
 employee.greet(); // "Hello, my name is Alice"
 employee.work(); // "Alice is working as a Engineer"
+

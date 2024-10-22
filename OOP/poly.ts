@@ -21,7 +21,7 @@ class Animal {
   }
   
   const myDog = new Dog();
-  const myCat = new Cat();
+  const myCat = new Cat(); 
   
   makeAnimalSound(myDog); // "The dog barks."
   makeAnimalSound(myCat); // "The cat meows."
